@@ -1,2 +1,3 @@
 Ejercicio de git - versión 2
 Autor: Alejo Benegas
+Fecha: 30/04/26
